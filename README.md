@@ -21,8 +21,7 @@ Extensive experiments on five benchmarks demonstrate that DAMA not only signific
 </div>
 
 ## Get Started
-Our implementation consists of 2 steps.<br>
-Dataset: We employ the LLaVA-v1.5-7B preference data from [RLAIF-V Dataset](https://huggingface.co/datasets/openbmb/RLAIF-V-Dataset)
+Dataset: We employ the LLaVA-v1.5-7B preference data from [RLAIF-V Dataset](https://huggingface.co/datasets/openbmb/RLAIF-V-Dataset)<br>
 Code: DAMA code is built upon [LLaVA-v1.5](https://github.com/haotian-liu/LLaVA) <br>
 
 ## contact:
